@@ -7,5 +7,5 @@
 # git init
 #git add .
 #git commit -m "Python basics"
-#git remote and origin
+#git remote add origin https://github.com/Margaretwairimu-code/Intro-to-python.gi
 #git push -u origin master
