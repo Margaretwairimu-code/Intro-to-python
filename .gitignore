@@ -1,0 +1,11 @@
+.venv/
+.env
+.idea/
+#.gitignore
+
+
+# git init
+#git add .
+#git commit -m "Python basics"
+#git remote and origin
+#git push -u origin master

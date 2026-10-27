@@ -1,0 +1,7 @@
+print("Margaret")
+print("7777")
+print("Hello World")
+print(6*5-3+8)
+print(10/3)
+print(10/3.0)
+print(10//3.0)
