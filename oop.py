@@ -31,3 +31,4 @@ p1.display()
 p2.display()
 
 print(f"{p1.name}  bmi is {p1.get_bmi()}")
+print(f"{p2.name}  bmi is {p2.get_bmi()}")

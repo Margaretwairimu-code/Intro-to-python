@@ -1,6 +1,4 @@
 #oop2
-import math
-
 
 class Circle:
     def __init__(self,radius):
@@ -23,5 +21,7 @@ print(c1.area())
 c1.print_details()
 
 # branches --copy--master main
-# feature
+# feature--
 # create new branch --TNT-001-login page, create
+
+# we will learn inheritance in python
